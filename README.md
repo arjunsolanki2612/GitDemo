@@ -1,2 +1,5 @@
 # GitDemo
-GitDemo project
+GitDemo project..
+<br>
+Author: Arjun Solanki
+
